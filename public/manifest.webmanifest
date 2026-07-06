@@ -1,0 +1,19 @@
+{
+  "name": "Tahak – Philippine Tour Guide Platform",
+  "short_name": "Tahak",
+  "description": "Discover and book verified local tour guides across the Philippines, secured by Stellar blockchain escrow.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F4EC",
+  "theme_color": "#2F6B3C",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

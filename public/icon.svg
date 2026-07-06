@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="120" fill="#2F6B3C"/>
+  <!-- Mountain silhouette -->
+  <path d="M80 380 L200 200 L260 280 L320 180 L440 380 Z" fill="#4F8A52"/>
+  <!-- Sun/trail arc -->
+  <path d="M180 200 Q256 120 330 200" stroke="#D8B26E" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <!-- Location pin -->
+  <circle cx="256" cy="178" r="22" fill="#D8B26E"/>
+  <path d="M256 200 L256 240" stroke="#D8B26E" stroke-width="14" stroke-linecap="round"/>
+  <!-- Trail dots -->
+  <circle cx="180" cy="310" r="8" fill="#76A96B"/>
+  <circle cx="220" cy="300" r="8" fill="#76A96B"/>
+  <circle cx="260" cy="295" r="8" fill="#76A96B"/>
+  <circle cx="300" cy="300" r="8" fill="#76A96B"/>
+  <circle cx="340" cy="310" r="8" fill="#76A96B"/>
+</svg>
