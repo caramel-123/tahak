@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(npx tsc --noEmit *)",
+      "Bash(cargo test *)",
+      "Bash(npm test)",
+      "Bash(stellar keys address *)",
+      "Bash(npm run dev)",
+      "Bash(stellar keys public-key *)",
+      "Bash(vercel whoami)",
+      "Bash(vercel env ls)",
+      "Bash(stellar keys ls)"
+    ]
+  }
+}
